@@ -1,0 +1,12 @@
+Potato
+60
+2
+banana
+50
+5
+Sweet Potato
+50
+3
+onion
+100
+15
